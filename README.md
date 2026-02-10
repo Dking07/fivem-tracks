@@ -10,7 +10,7 @@
 
 [🎬 Tracks playlist](https://youtube.com/playlist?list=PLigXALMD1Wk13aSeHxaghbWY3d5So2pJw&si=kX1jkuSPfl2rg83V)
 ·
-[🛒 Tebex Store](https://dking.tebex.io)
+[🛒 Store](https://dking.tebex.io)
 
 </div>
 
