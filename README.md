@@ -16,16 +16,6 @@
 
 ---
 
-## Table of Contents
-
-- [About the project](#-about-the-project)
-- [Features](#-features)
-- [Repository structure](#-repository-structure)
-- [Author](#-author)
-- [License](#-license)
-
----
-
 ## About the project
 
 **FIVEM TRACKS** is a repository of race tracks for FiveM servers.  
