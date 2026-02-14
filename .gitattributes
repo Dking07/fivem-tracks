@@ -1,0 +1,2 @@
+*.json linguist-detectable=true
+tracks/** linguist-detectable=true
