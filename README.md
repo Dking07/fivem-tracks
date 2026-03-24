@@ -5,7 +5,6 @@
 **Collection of race tracks for FiveM servers**
 
 [![GitHub stars](https://img.shields.io/github/stars/Dking07/fivem-tracks?style=for-the-badge)](https://github.com/Dking07/fivem-tracks/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Dking07/fivem-tracks?style=for-the-badge)](https://github.com/Dking07/fivem-tracks/network/members)
 [![License](https://img.shields.io/github/license/Dking07/fivem-tracks?style=for-the-badge)](./LICENSE)
 
 [🎬 Tracks playlist](https://youtube.com/playlist?list=PLigXALMD1Wk13aSeHxaghbWY3d5So2pJw&si=kX1jkuSPfl2rg83V)
