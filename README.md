@@ -47,6 +47,8 @@ fivem-tracks/
 └─ README.md      # This file
 ```
 
+---
+
 ## Author
 
 <div align="center">
@@ -58,10 +60,13 @@ fivem-tracks/
 <div align="center">
 
 If this repository helps your server, consider:
-
+<br>
+<br>
 Starring the repository on GitHub
-Checking out more resources at [store](dking.tebex.io)
-
+<br>
+Checking out more resources at [store](https://dking.tebex.io)
+<br>
+<br>
 BY [DKING](https://github.com/Dking07) • 2026 ©
 
 </div>
@@ -71,3 +76,5 @@ BY [DKING](https://github.com/Dking07) • 2026 ©
 ## License
 
 This project is licensed under the [GPL-3.0 License](./LICENSE).
+
+---
